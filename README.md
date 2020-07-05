@@ -1,4 +1,4 @@
-# csgo-config
+# CSGO Autoexec by Cryochase
 There's my CS GO autoexe.cfg 
 Most of it is translated to Polish Language, I probably will make it in English also. 
 
